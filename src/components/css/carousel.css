@@ -1,0 +1,7 @@
+.carousel-item img {
+  object-fit: cover;
+  object-position: top;
+  height: 60vh;
+  overflow: hidden;
+  background-color: red;
+}
